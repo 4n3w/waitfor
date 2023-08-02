@@ -1,0 +1,5 @@
+---
+applications:
+  - name: waitfor
+    env:
+      SLEEP_INTERVAL_MS: 900000 # wait for 1s before responding.
